@@ -11,12 +11,16 @@ The goal of this project is to analyze what various quarterback statistics affec
 The data used was gathered from four different ESPN sources
 1. College Football Total Quarterback Rating(QBR) – (2004-2019) Season Leaders
     * Rates the quarterback on playmaking skill and gives an overall score 0-100
+    * https://www.espn.com/college-football/qbr/_/season/2019
 2. College Football Power Index (2005-2019)
     * Ranks and rates teams offensive defensive and special teams’ efficiency 
+    * https://www.espn.com/college-football/fpi/_/view/efficiencies/season/2019
 3. College Football Player Passing Stats (2004-2019)
     * An overview of top performing players and their seasons passing stats
+    * https://www.espn.com/college-football/stats/player/_/season/2019
 4. College Football Player Rushing Stats  (2004-2019)
     * An overview of top performing players and their seasons passing stats
+    * https://www.espn.com/college-football/stats/player/_/stat/rushing/season/2019
     
 ![Imgur](https://i.imgur.com/C2yAze4.png)
 
