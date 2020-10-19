@@ -39,3 +39,31 @@ The finalized model used was a multivariate linear regression algorithm. Creatin
 The difference in age ranges if most notably seen with lower tier conferences. They show a change in QBR rating of 30 from 18-year-olds to 24 year-olds while top tier conference only have change of 15. This puts and emphasis for smaller conferences to have their quarterbacks redshirt and sit out a year to give them more time to age and grow in skill. The top tier conference can benefit from the same but will see smaller affects. This is likely due to recruiting. More established and successful football programs have a stronger influence on recruiting new high performing athletes. Their new athletes typically will have a higher starting QBR rating than smaller schools’ new recruits. It puts more emphasis on smaller schools to develop their quarterback’s skill to reach a similar QBR rating of top tier conferences.
 
 ![Imgur](https://i.imgur.com/c2KYqaR.png)
+
+### Rushing Averages
+The graph depicts a wide range of quarterback skills. There is a trend where the more rushing yards on average the quarterback has the higher their rating along with less fluctuations. A quarterback confined to only a passing playstyle is less mobile than its counterpart and more likely to be caught in bad situations. They key here for quarterback improvement it to increase their agility do be able to create a more adaptable playstyle when needed. This overall assumption is something that can be applied to all schools regardless of their size or overall skill level.
+
+![Imgur](https://i.imgur.com/WRkAniC.png)
+
+### Offensive and Defensive Teams
+The offensive rating is heavily correlated with the quarterback's performance as expected. In terms of the defense there is a loosely positive correlation with how the defense plays and the quarterback. With decreasingly small change in the play style of quarterbacks and their offensive rating, dual-threat quarterbacks more notably outrank standards ones with weaker defenses. This could suggest the added playstyle of rushing gives the player more adaptivity to change.
+
+![Imgur](https://i.imgur.com/ORUCo77.png) ![Imgur](https://i.imgur.com/KEQWMO0.png)
+
+### Playstyle with Age
+It can be seen very easily that in terms of younger quarterbacks there is a large skill gap between playstyle with emphasis on dual-threat quarterbacks. It not until the player ages that the gap between the two begin to decrease but even then dual-threat players are still outperforming standard players by a notable margin. If a guess had to be made as to why it could likely be due to the size and skill difference of an 18-year-old and a 24 year old. They are crucial years to develop as a young athlete and a young 18 year old not even 200 pounds faced against 23 year old lineman at 275 pounds is greatly outclassed. It puts pressure on them to make successful passing plays while a dual-threat quarterback has the speed and agility to outmaneuver players with risking having to take a stake or poor throw. Its not until later on in life that quarterback has gained the size or skill to handle such a situation.
+
+![Imgur](https://i.imgur.com/gyYCohi.png)
+
+## Recommendations
+1. Recruit older athletes and or redshirt incoming players for a year
+2. Work on developing more playstyles for quarterbacks to increase their adaptability
+3. Teams with weaker defenses should focus on a quarterbacks rushing plays
+
+## Future Work
+1. Look at the rating on athletes before they are recruited to get estimate for how they change
+2. Gather a complete list of heights and weights of players
+3. Analyze the ratings of other players on the team 
+
+
+ 
