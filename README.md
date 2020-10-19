@@ -17,7 +17,9 @@ The data used was gathered from four different ESPN sources
     * An overview of top performing players and their seasons passing stats
 4. College Football Player Rushing Stats  (2004-2019)
     * An overview of top performing players and their seasons passing stats
-  
+    
+![Imgur](https://i.imgur.com/C2yAze4.png)
+
 ## Models
 To analyze a quarterback's skill 9 different regression models were analyzed and compared against each other to find which had the best fit of the data. R-sq, root mean squared error (RMSE) and mean absolute error (MAE) were used to measure each model’s performance. Due to the nature of the data the models were naturally correlated with each other, so all models had relatively high performance. 
 * _Neural Network was abbreviated “NN” followed by optimization algorithm used._
