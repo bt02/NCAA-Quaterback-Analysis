@@ -26,7 +26,7 @@ To analyze a quarterback's skill 9 different regression models were analyzed and
 
 ![Imgur](https://i.imgur.com/lslgxtM.png)
 
-The finalized model used was a multivariate linear regression algorithm. Creating the final model outliers’ non-significant figures were dropped. There was a small reduction of the fit of the model with at while giving a reduction in error. With low variance between out train and test RMSE it can be assumed that the data is well fitted.
+The finalized model used was a multivariate linear regression algorithm. Creating the final model outliers’ non-significant figures were dropped. There was a small reduction of the fit of the model while giving a reduction in error. With low variance between out train and test RMSE it can be assumed that the data is well fitted.
 
 ![Imgur](https://i.imgur.com/i6S8iMw.png)
 
